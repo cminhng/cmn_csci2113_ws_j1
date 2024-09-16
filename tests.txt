@@ -24,5 +24,55 @@
 	"checkCode 18.Duck Pond",
 	"false",
 		
+	"checkCode 18.Duck Pond 837465",
+	"false",
+
+	"checkCode 999.Duck Pond 2345",
+	"false",
+
+	"checkCode 999.L0$t Pond 23457",
+	"false",
+
+	"checkCode 001.Duck Pond  ",
+	"false",
+
+	"checkCode 12Duck  ",
+	"false",
+
+	"checkCode 999.Duck Pond  23458",
+	"true",
+
+	"checkCode 65.Duck           99999",
+	"true",
+
+	"checkCode 000.Duck 99999",
+	"false",
+
+	"checkCode .Cat  ",
+	"false",
+
+	"checkCode ",
+	"false",
+
+	"checkCode 32. Cat  ",
+	"false",
+
+	"checkCode 32.Cat  00000",
+	"true",
+
+	"checkCode -1.Cat  00000",
+	"false",
+
+	"checkCode 32.ABCDEGHIGKSHDFHSDKFSKDFKFH  12345",
+	"true",
+
+	"checkCode 422.00000",
+	"false",
+
+	"checkCode 789.HI@ THERE 00000",
+	"false",
+
+	"checkCode 12.Help_Me 00000",
+	"false",
 	//DO NOT CHANGE ANYTHING BELOW THIS LINE		
 
