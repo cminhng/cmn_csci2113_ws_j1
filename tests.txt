@@ -16,6 +16,9 @@
 	"false",
 
 	"checkCode 18.Hello Hello ",
+	"true",
+
+	"checkCode 18.Hello hello ",
 	"false",
 
 	"checkCode 18.Duck Pond",
