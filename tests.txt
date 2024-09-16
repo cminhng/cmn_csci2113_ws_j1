@@ -2,6 +2,24 @@
 	"checkCode 1.A ",
 	"true",			
 	//WRITE YOUR TESTS BELOW IN THE SAME FORMAT (USE COPY-AND-PASTE)
+
+	"checkCode 1080.A ",
+	"false",
+
+	"checkCode 18_Zebra ",
+	"false",
+
+	"checkCode 18. ",
+	"false",
+	
+	"checkCode 18.hello ",
+	"false",
+
+	"checkCode 18.Hello Hello ",
+	"false",
+
+	"checkCode 18.Duck Pond",
+	"false",
 		
 	//DO NOT CHANGE ANYTHING BELOW THIS LINE		
 
