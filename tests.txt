@@ -27,10 +27,13 @@
 	"checkCode 18.Duck Pond 837465",
 	"false",
 
-	"checkCode 999.Duck Pond 2345",
+	"checkCode 998.Duck Pond 2345",
 	"false",
 
-	"checkCode 999.L0$t Pond 23457",
+	"checkCode 998.L0st Pond 23457",
+	"false",
+
+	"checkCode 998.Lo$t Pond 23457",
 	"false",
 
 	"checkCode 001.Duck Pond  ",
@@ -74,5 +77,7 @@
 
 	"checkCode 12.Help_Me 00000",
 	"false",
+
+
 	//DO NOT CHANGE ANYTHING BELOW THIS LINE		
 
